@@ -1,0 +1,12 @@
+.output{
+   padding: 20px;
+}
+.output__style{
+   margin: 10px 0;
+   padding: 20px;
+}
+.output__style button{
+   padding: 10px;
+   margin-right: 10px;
+   border-radius: 25px;
+}  
